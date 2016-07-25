@@ -19,3 +19,8 @@
 ##D-xylose phosphatase
 
 ###used to bind ATP through xylose onto various energy creating mechanisms
+
+x|y
+---
+1|2
+3|4
