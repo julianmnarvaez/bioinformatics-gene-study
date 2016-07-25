@@ -1,4 +1,4 @@
-# bioinformatics-gene-study
+# bioinformatics-gene-study (E.Coli)
 
 ##acetyl-COA synthase 
 
